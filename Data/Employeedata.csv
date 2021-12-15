@@ -1,0 +1,80 @@
+id,fname,lname,gender,dob,email,phno,city,pincode,datejoined,salary,role,qualifycation,Department,d_id,training,score1,score2
+E001,Mahi,Shinoy,M,17-05-1990,rahimdysp@gmail.com,8456123785,Ri Bhoi,793103,09-09-2010,74000,E,M.Tech.,Marketing,D001,Soft-Skills,80,60
+E002,Konda,Venkata Sai Sumitha,F,02-12-1965,abhay2003gopal@gmail.com,9456123147,East Garo Hills,794111,12-05-2012,45000,E,Ph.D.,Administration,D002,PHPDevolopment,81,61
+E003,Muhammed,Shajahan,M,25-12-1990,abhikrishnaram88@gmail.com,9456123784,East Garo Hills,794110,05-09-2010,24000,E,IT,Programming,D003,TechnicalTraining,82,62
+E004,Dhruv,Dinesh,M,14-12-1989,adarshsinghdpsjkp.1587@gmail.com,8478475487,Chamrajnagar,571442,13-08-2010,52000,E,M.Tech.,Marketing,D001,TimeManagement,83,63
+E005,GOKUL,KRISHNA B R,M,03-08-1985,aadianan@gmail.com,7454754756,East Sikkim,737134,05-12-2015,86000,E,IT,QualityManagemnt,D004,PHPDevolopment,84,64
+E006,Akshay,K,M,25-09-1995,aishwaryapareparambil@gmail.com,8456789456,Hyderabad,500004,15-08-2020,45000,E,Ph.D.,Administration,D002,TimeManagement,85,65
+E007,Katru,Venkata Naga Satya Sarath,M,25-10-1982,akshayajith292@gmail.com,9457845123,Hyderabad,500045,25-03-2014,25000,E,B.Tech.,Marketing,D001,Soft-Skills,86,66
+E008,Adith,Krishna,M,08-05-1983,allenkammanghat@gmail.com,8745612345,Hyderabad,500004,03-02-2014,32000,E,M.Tech.,Programming,D003,TimeManagement,87,67
+E009,Anshuman,Swain,M,01-01-1980,arun.somasekharan@gmail.com,9456124785,Hyderabad,500091,10-12-2015,41000,E,IT,QualityManagemnt,D004,TimeManagement,88,68
+E010,Gautham,Krishnan Priya,F,09-09-1980,ananthuappu0404@gmail.com,7458745126,Hyderabad,500034,25-02-2015,25365,E,B.Tech.,Accounting,D005,PHPDevolopment,89,69
+E011,Harikrishna,Satheesh Pillai,M,06-12-1958,anjanaamenon2003@gmail.com,8475123745,Hyderabad,500004,12-12-2016,21322,E,B.Tech.,Marketing,D001,Soft-Skills,90,70
+E012,Karthik,Dinesh,M,25-12-1998,dksingh3659@yahoo.com,9457812345,Nicobar,744302,14-05-2018,82000,A,Ph.D.,QualityManagemnt,D004,TimeManagement,91,71
+E013,Gopisetty,Venkata Vivek,M,13-04-1995,rsm.raja61@gmail.com,9475812347,Nicobar,744301,15-02-2019,96000,A,Ph.D.,Administration,D002,PHPDevolopment,92,72
+E014,Satvik,Aravalapalli,M,15-12-1993,aswink2004@gmail.com,8451236954,Nicobar,744303,13-02-2015,26000,E,IT,Accounting,D005,TimeManagement,93,73
+E015,Bollisetty,Shiva Shankara Varaprasad,M,05-03-2003,anandababub9@gmail.com,7456891234,Tirap,792129,06-05-2015,47000,E,M.Tech.,Administration,D002,TimeManagement,94,74
+E016,Bandra,Mohammed Sami Shaik,M,12-02-1996,venkatasubbarao173@gmail.com,8451234568,Tirap,792129,04-02-2016,52000,E,M.Tech.,Marketing,D001,Soft-Skills,95,75
+E017,Daketi,Karav Tej,M,25-12-1965,bharathkrishna0appu@gmail.com,9456123147,East Sikkim,737135,12-04-2015,25245,A,Ph.D.,Programming,D003,TechnicalTraining,96,76
+E018,Purushottam,Reddy,M,03-08-2002,purush3190@gmail.com,6300793297,Kurnool,518512,12-03-2012,54000,A,B.Tech.,QualityManagemnt,D004,PHPDevolopment,97,77
+E019,Adithya,D Varma,M,24-04-1955,dharmajee@hotmail.com,9456214578,Dibang Valley,792101,05-02-2015,74000,E,Ph.D.,Administration,D002,TimeManagement,98,78
+E020,P,JAGATH SUYA,M,14-12-1992,sureshkumarnv27@gmail.com,7456123456,Arwal,824115,04-02-2016,45000,E,IT,Programming,D003,TechnicalTraining,99,79
+E021,Anfas,Hassan V,F,25-10-1985,laxmilazz2003@gmail.com,7451234567,Arwal,804401,24-06-2014,24000,E,M.Tech.,Accounting,D005,PHPDevolopment,100,80
+E022,Behera,Khitish Kumar,M,02-11-1993,Kisor15jan@gmail.com,8456123456,Chandigarh,140119,25-11-2015,52000,E,B.Tech.,Marketing,D001,Soft-Skills,70,81
+E023,Aiswarya,Satheesh,F,15-01-1988,gauthammuralinmbr@gmail.com,9451231475,Chandigarh,160003,15-02-2019,86000,E,Ph.D.,QualityManagemnt,D004,ProfessionalTraining,71,82
+E024,SK,Anand,M,06-05-1958,jagruthig2003@gmail.com,8451236941,Gariaband,493891,20-03-2017,45000,E,IT,Administration,D002,PHPDevolopment,72,83
+E025,Athul,Gireesh,M,01-12-2000,gouthamkrishna013@gmail.com,7145612345,East Delhi,110090,15-12-2015,54254,E,B.Tech.,Programming,D003,TechnicalTraining,73,84
+E026,Adithya,Krishna,F,10-11-1993,sanju3099@gmail.com,9447305858,South West Delhi,110075,16-10-2018,32000,E,Ph.D.,Accounting,D005,TimeManagement,74,85
+E027,Anagha,Viju,F,03-11-1999,harshtpu@gmail.com,9495415460,North Delhi,110006,16-09-2017,41000,E,M.Tech.,QualityManagemnt,D004,ProfessionalTraining,75,86
+E028,SWATHY,RAJESH,F,05-01-1999,hrishabtharayil987@gmail.com,9074833903,North Delhi,110006,09-09-2010,25365,E,B.Tech.,Marketing,D001,Soft-Skills,76,87
+E029,Nandita,Sangeeth,F,26-04-1991,varghesejoe86@gmail.com,8299342443,North Goa,403503,12-05-2012,21322,E,M.Sc.,Accounting,D005,TimeManagement,77,88
+E030,Varalakshmi,MR,F,11-12-1994,pranayreddyk1204@gmail.com,6282329695,North Goa,403530,05-09-2010,82000,E,Ph.D.,Administration,D002,Soft-Skills,78,89
+E031,Navneeth,Krishna,M,03-02-1992,ketone.agasti@gmail.com,7012427965,Gandhi Nagar,382640,13-08-2010,96000,E,B.Tech.,QualityManagemnt,D004,ProfessionalTraining,79,90
+E032,Anushka,Kaimal,F,03-05-1958,varunkotha20@gmail.com,9447066052,Gandhi Nagar,382810,05-12-2015,26000,E,M.Sc.,Administration,D002,TimeManagement,80,91
+E033,Adithya,R K Nambiar,M,12-12-1989,chenchulakshminarayanarao@gmail.com,9495949062,Gandhi Nagar,382735,15-08-2020,15251,E,B.Tech.,Marketing,D001,Soft-Skills,81,92
+E034,Ashwin,Tejo,M,14-12-1992,nishantpramod@yahoo.co.in,9446563025,Gandhi Nagar,382305,25-03-2014,86000,E,Ph.D.,Accounting,D005,ProfessionalTraining,82,93
+E035,Sidharth,S Nair,M,12-12-2000,pranathi02m@gmail.com,8089639697,Mahe,673310,03-02-2014,74000,E,M.Tech.,Administration,D002,TimeManagement,83,94
+E036,Ananthakrishnan,Suresh,M,05-01-1996,meenak7307@gmail.com,9846394119,North Goa,403512,10-12-2015,45000,E,B.Tech.,Programming,D003,ProfessionalTraining,84,95
+E037,Amirtha,Narayana NK,F,08-12-1985,mohithbnair@gmail.com,7042462451,North Goa,403508,25-02-2015,24000,E,M.Sc.,QualityManagemnt,D004,PHPDevolopment,85,96
+E038,Karan,Rajesh Nair,M,14-01-1996,nukalanarmada08021978@gmail.com,9492449986,North Goa,403521,12-12-2016,52000,E,M.Sc.,Administration,D002,TimeManagement,86,97
+E039,Roopa,Ravali Bemarasetty,F,12-04-1996,lycanrocdusk0@gmail.com,6238456348,Pondicherry,605110,14-05-2018,86000,E,IT,Accounting,D005,ProfessionalTraining,87,98
+E040,Phanidhar,Reddy Guttikonda,M,05-01-1984,n.lalithkarthik17@gmail.com,9446082508,Pondicherry,607402,15-02-2019,45000,E,Ph.D.,Programming,D003,TechnicalTraining,88,99
+E041,ANANTHAJITH,NAMBIAR H,M,08-05-1994,niranjansnambiar.sudinam@gmail.com,8886428184,Idukki,685561,13-02-2015,74000,E,IT,Administration,D002,PHPDevolopment,89,75
+E042,D,Sushanth Reddy,M,04-06-1965,arjunkrishnapm777@gmail.com,8137086108,Idukki,685590,06-05-2015,45000,E,M.Sc.,Programming,D003,TimeManagement,90,76
+E043,MANAV,MANIPRASAD,M,04-06-1958,nineedn+078@gmail.com,9581836603,Kollam,689696,04-02-2016,24000,E,B.Tech.,Administration,D002,ProfessionalTraining,91,77
+E044,Gouri,S Vipin,F,01-05-1978,pournamipremjithpp@gmail.com,9440955436,Kollam,691573,12-04-2015,52000,E,M.Sc.,QualityManagemnt,D004,PHPDevolopment,92,78
+E045,Charishma,Akshaya Pullakhandam,F,07-05-1975,surekhadrk@gmail.com,9447505986,Palakkad,679503,12-03-2012,86000,E,Ph.D.,Programming,D003,ProfessionalTraining,93,79
+E046,Tallapalli,Uday Krishna,M,05-02-1977,pyarasaani.jaidev@gmail.com,8590354928,Palakkad,678581,15-12-2013,45000,E,IT,Accounting,D005,TimeManagement,94,80
+E047,Parvathy,G Pillai,F,15-10-1975,ranginenis@gmail.com,9943023261,Adilabad,504273,04-11-2018,32000,E,B.Tech.,Programming,D003,TechnicalTraining,95,81
+E048,Adithya,S Nair,M,02-04-1975,geddamsujathakumari@gmail.com,9746741778,Adilabad,504293,05-08-2015,41000,E,M.Tech.,Marketing,D001,Soft-Skills,96,82
+E049,Kattamuri,Tejo Vardhan,M,26-01-1987,rohithshinoj@gmail.com,9949848535,Adilabad,504307,03-05-2019,25365,E,M.Sc.,Programming,D003,TimeManagement,97,83
+E050,Aravind,M J,M,21-11-1984,ravindrat6960@gmail.com,9497858258,Adilabad,504001,11-12-2018,21322,E,B.Tech.,Administration,D002,PHPDevolopment,98,84
+E051,R,V AJAGOPALAN,M,12-12-1985,sanjaymaestron@gmail.com,6300424884,Adilabad,504001,16-09-2017,82000,E,IT,Programming,D003,TechnicalManagement,99,85
+E052,Anugrah,Nambiar,M,04-01-1996,shriyaindarapu2003@gmail.com,9487521755,Adilabad,504251,09-09-2010,96000,E,M.Tech.,Accounting,D005,TimeManagement,80,86
+E053,Kancharla,venkata Keerthana reddy,F,05-02-1987,sidharthav4321@gmail.com,9844533493,Adilabad,504273,12-05-2012,26000,E,Ph.D.,QualityManagemnt,D004,TimeManagement,81,87
+E054,Santhosh,Mamidisetti,M,25-02-1999,venusdr@gmail.com,7736712867,East Sikkim,737113,05-09-2010,74000,E,M.Sc.,Administration,D002,PHPDevolopment,82,88
+E055,Abhinand,M S,M,05-02-1988,mithunpc@gmail.com,7330983849,Coimbatore,642205,13-08-2010,45000,E,B.Tech.,Marketing,D001,Soft-Skills,83,89
+E056,J,Viswaksena,M,14-05-1982,gopinullivila@gmail.com,9704515577,East Sikkim,737135,05-12-2015,24000,E,M.Sc.,Programming,D003,TechnicalTraining,84,90
+E057,SURYA,VAMSI VEMA,M,30-11-1987,rajamanigowd3@gmail.com,8328677635,Madurai,625514,15-08-2020,52000,E,Ph.D.,Accounting,D005,TimeManagement,85,91
+E058,Sai,Manasa Sowmya Hasavathu,F,04-02-1999,udamalapratyusha@gmail.com,9703670009,East Sikkim,737106,25-03-2014,86000,E,M.Sc.,Administration,D002,PHP Devolopment,86,92
+E059,Avadhuta,Sai Varun,F,04-05-1987,varunnkp2003@gmail.com,8129179828,Coimbatore,641663,03-02-2014,45000,E,Ph.D.,Accounting,D005,TimeManagement,87,93
+E060,Karthik,G Nair,M,05-11-1978,venigallamanoj99@gmail.com,9849527175,Chennai,600102,10-12-2015,74000,E,M.Sc.,Marketing,D001,Soft-Skills,88,94
+E061,Abhishek,a,M,25-02-1975,vinayakvthayil40@gmail.com,9746350524,Chamrajnagar,571441,25-02-2015,45000,E,M.Tech.,Administration,D002,ProfessionalTraining,89,95
+E062,ANNAPOORNA,AK,F,26-11-1974,viswajith.v.nair@gmail.com,9846335837,Chennai,600002,12-12-2016,24000,E,B.Tech.,QualityManagemnt,D004,TimeManagement,90,96
+E063,Vishnu,Shaji,M,31-01-1975,yaswanth.004.001@gmail.com,8639151252,East Sikkim,737113,14-05-2018,52000,E,IT,Administration,D002,ProfessionalTraining,91,97
+E064,Parvathi,Pk,F,25-09-1994,aksharack398@gmail.com,8921897754,Madurai,625501,15-02-2019,86000,E,B.Tech.,Accounting,D005,PHPDevolopment,92,98
+E065,NAVNEETH,SURESH,M,06-02-1972,binoyjose9@gmail.com,7993126059,Coimbatore,641652,13-02-2015,45000,E,M.Tech.,Marketing,D001,Soft-Skills,93,58
+E066,Dhruv,R Krishnan,M,25-10-1988,amruthganeshjm@gmail.com,8606490693,Chennai,600101,06-05-2015,21322,E,B.Tech.,Administration,D002,TimeManagement,94,59
+E067,Gouru,Sai Deepak,M,12-12-1992,rajeevkala97@gmail.com,8078851981,Coimbatore,642002,04-02-2016,82000,E,M.Sc.,Accounting,D005,ProfessionalTraining,95,60
+E068,A,P KRISHN,M,01-01-1995,geelupaul@gmail.com,9030789899,East Sikkim,737134,12-04-2015,96000,E,IT,QualityManagemnt,D004,ProfessionalTraining,96,61
+E069,Madiraju,Bharadwaj,M,09-08-1996,anuparunaruna@gmail.com,8848836481,Coimbatore,642111,12-03-2012,32000,E,Ph.D.,Programming,D003,TechnicalTraining,97,62
+E070,SHAIK,NADEEM MOHAMMAD,M,08-09-1995,a.sreenu1971@gmail.com,9248126789,Ri Bhoi,793104,15-12-2013,41000,E,M.Sc.,Accounting,D005,ProfessionalTraining,88,63
+E071,Vedagiri,Praneeth,M,06-08-1996,aswinc200369@gmail.com,8886333655,Guntur,522235,04-11-2018,25365,E,M.Tech.,Marketing,D001,Soft-Skills,75,64
+E072,Ishaan,Dadhich,M,07-09-1997,bknairpala@gmail.com,9000899942,Amritsar,143502,05-08-2015,21322,E,B.Tech.,Marketing,D001,Soft-Skills,86,65
+E073,Abhishek,S B,M,06-10-1998,syamsaibandi48@gmail.com,9493476258,Krishna,521202,03-05-2019,82000,E,M.Sc.,Administration,D002,ProfessionalTraining,86,66
+E074,Advaith,P R,M,05-11-1999,gokulg2255@gmail.com,7034238865,Visakhapatnam,531035,11-12-2018,96000,E,B.Tech.,Programming,D003,TechnicalTraining,56,67
+E075,Adith,S Biju,M,04-12-1989,gokrish.2003@gmail.com,8247686960,Hisar,125033,03-02-2014,26000,E,Ph.D.,QualityManagemnt,D004,TimeManagement,80,68
+E076,Sai Sarvagna,Beeram,F,23-05-1974,saisarvagna023@gmail.com,9504910111,Guntur,522006,23-05-2003,99999,A,B.Tech,Computer Science,D006,HRManagement,100,100
+E077,Sindhu Sahithi,Gelam,F,26-04-1974,sindhusahithi2623@gmail.com,9014328050,Kakinada,533001,26-04-2003,99999,A,B.Tech,Computer Science,D006,HRManagement,100,100
+E078,S N Manikanta,Thota,M,12-07-1981,manikantathota23@gmail.com,9441724313,Vijayawada,502355,12-07-2004,10000,A,B.Tech,Computer Science,D006,HRManagement,96,96
+E079,D M N SuryaTeja,Tummala,M,22-09-1980,suryateja084@gmail.com,7013867179,Vishakapatnam,530003,22-09-2003,11000,A,B.Tech,Computer Science,D006,HRManagement,96,96
